@@ -15,6 +15,7 @@ local default_config = {
 		["method-name"] = ' ',
 		["container-name"] = 'ﮅ ',
 		["tag-name"] = '炙',
+		["hook-name"] = 'ﯠ '
 	},
 	separator = ' > ',
 	depth = 0,
